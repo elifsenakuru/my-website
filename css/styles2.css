@@ -1,0 +1,166 @@
+body {
+  background-color: #2A363B;
+}
+
+h1 {
+  margin: auto;
+  text-align: center;
+  font-family: 'Sacramento', cursive;
+  line-height: 2;
+  font-size: 5.625rem;
+  color: #ACB992;
+  background-color: #2A363B;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #EEEEEE;
+  text-align: center;
+}
+
+.row1 {
+  display: flex;
+}
+
+.column1 {
+  flex: 33.33%;
+  padding: 5px;
+}
+
+.photo0 {
+  height: 800px;
+  width: 100%;
+  background-color: #2A363B;
+  margin-bottom: 20px;
+}
+
+
+.photo1 {
+  height: 600px;
+  width: 100%;
+  background-color: #2A363B;
+}
+
+
+.photo2 {
+  height: 600px;
+  width: 100%;
+  background-color: #2A363B;
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+
+.p20 {
+  position: absolute;
+  left: 25px;
+  width: 525px;
+  height: 700px;
+}
+
+.p21 {
+  position: absolute;
+  right: 25px;
+  width: 525px;
+  height: 700px;
+}
+
+.p23 {
+  position: absolute;
+  left: 650px;
+  width: 525px;
+  height: 700px;
+}
+
+.p26 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 888px;
+  height: 500px;
+  margin-top: 150px;
+}
+
+.p8 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 680px;
+  height: 510px;
+}
+
+.p7 {
+  float: left;
+  width: 525px;
+  height: 700px;
+}
+
+.p6 {
+  float: right;
+  width: 525px;
+  height: 700px;
+}
+
+.p24 {
+  position: absolute;
+  left: 25px;
+  width: 525px;
+  height: 700px;
+}
+
+.p25 {
+  position: absolute;
+  right: 25px;
+  width: 525px;
+  height: 700px;
+}
+
+.para1 {
+  margin-top: 200px;
+  font-size: 20px;
+  line-height: 2;
+  font-family: 'Montserrat', sans-serif;
+  color: #F6E7D8;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.para2 {
+  margin-top: 20px;
+  font-size: 20px;
+  line-height: 2;
+  font-family: 'Montserrat', sans-serif;
+  color: #F6E7D8;
+  vertical-align: middle;
+  text-align: center;
+}
+
+
+.para3 {
+  margin-top: 300px;
+  font-size: 25px;
+  line-height: 2;
+  font-family: 'Montserrat', sans-serif;
+  color: #F6E7D8;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.para4 {
+  font-size: 20px;
+  line-height: 2;
+  font-family: 'Montserrat', sans-serif;
+  color: #F6E7D8;
+  vertical-align: middle;
+  text-align: center;
+  margin-bottom: 80px;
+}
+
+
+.text0 {
+  height: 200px;
+  width: 100%;
+}
+
+.h22{
+  margin-top: 355px;
+}
